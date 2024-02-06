@@ -1,9 +1,8 @@
 ### Olá, eu sou Cléber 👋
 
 <ul>
-<li> 😀 Tenho 29 anos </li>
+<li> 😀 Tenho 31 anos </li>
 <li> 🎓 Sou Bacharel em Análise e Desenvolvimento de Sistemas </li>
-<li> 📚 Estou cursando Gestão Empresarial</li>
 <li> 🖥️ Estou cursando Pós Graduação em Arquitetura de Software</li>
 <li> 🥰 Sou apaixonado por tecnologia </li>
 </ul> 
